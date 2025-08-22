@@ -1,0 +1,24 @@
+{
+  "name": "express_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mo-create-git/express_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mo-create-git/express_server/issues"
+  },
+  "homepage": "https://github.com/Mo-create-git/express_server#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
